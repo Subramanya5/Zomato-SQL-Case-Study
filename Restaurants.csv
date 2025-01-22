@@ -1,0 +1,16 @@
+RestaurantID,Name,Location,Rating,Specialty
+R001,The Italian Bowl,Delhi,4.6,Italian
+R002,The Burger Joint,Mumbai,4.5,Fast Food
+R003,Biriyani,Bangalore,4.7,Indian
+R004,Sushi Station,Kolkata,4.4,Japanese
+R005,Healthify Cafe,Chennai,4.8,Healthy Food
+R006,Gobi,Delhi,4.1,Fast Food
+R007,Italian Pizza,Bangalore,4.5,Italian
+R008,maggly,Kolkata,4.6,Fast Food
+R009,Idli,Mumbai,4.8,Indian
+R010,Biriyani,Mumbai,4.2,Indian
+R007,Italian Pasta,Bangalore,4.3,Italian
+R004,Gyoza,Bangalore,4.9,Japanese
+R009,Cauliflower rice,Chennai,4.5,Healthy
+R002,veg wheat noodles,Bangalore,4.6,Healthy
+R005,The Italian Bowl,Kolkata,4.5,Italian

@@ -1,0 +1,21 @@
+PaymentID,OrderID,UserID,PaymentMethod,Amount,Status
+P001,O001,U001,Credit Card,500,Completed
+P002,O002,U002,Wallet,300,Refunded
+P003,O003,U003,UPI,540,Completed
+P004,O004,U004,Cash,350,Pending
+P005,O005,U005,Debit Card,300,Completed
+P006,O006,U006,Cash,700,Pending
+P007,O007,U003,UPI,330,Completed
+P008,O008,U008,Cash,500,Pending
+P009,O009,U005,Credit Card,1200,Completed
+P010,O010,U010,Wallet,60,Completed
+P011,O011,U011,UPI,180,Completed
+P012,O012,U012,Cash,150,Completed
+P013,O013,U013,Debit Card,800,Pending
+P014,O014,U014,Wallet,1080,Pending
+P015,O015,U015,UPI,185,Pending
+P016,O016,U016,Cash,200,Completed
+P017,O017,U017,UPI,700,Completed
+P018,O018,U018,UPI,700,Completed
+P019,O019,U019,Credit Card,150,Completed
+P020,O020,U020,Wallet,900,Refunded

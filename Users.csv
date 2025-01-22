@@ -1,0 +1,21 @@
+UserID,Name,Email,Location,TotalOrders,Rating
+U001,Ankit Patel,ankit.patel@gmail.com,Delhi,15,4.5
+U002,Riya Sharma,riya.sharma@yahoo.com,Bangalore,25,4.8
+U003,Mohit Agarwal,mohit.agarwal@outlook.com,Mumbai,18,4.2
+U004,Pooja Singh,pooja.singh@gmail.com,Chennai,12,4.7
+U005,Karan Mehta,karan.mehta@gmail.com,Kolkata,20,4.3
+U006,Rahul Verma,rahul.verma@outlook.com,Delhi,15,4.5
+U007,Sneha Singh,sneha.singh@outlook.com,Mumbai,18,4.2
+U008,Amit Khanna,amit.khanna@outlook.com,Bangalore,10,4.3
+U009,Priya Sharma,priya.sharma@outlook.com,Kolkata,12,4.6
+U010,Rohit Mehra,rohit.mehra@outlook.com,Chennai,16,4.8
+U011,ram,ram.ram@outlook.com,Delhi,22,4.1
+U012,krishna,krishna.krishna@outlook.com,Bangalore,23,4.2
+U013,sachin,sachin.sachin@outlook.com,Kolkata,26,4.3
+U014,virat,virat.virat@outlook.com,Mumbai,24,4.2
+U015,shashank,shashank.shashank@outlook.com,Mumbai,21,4.5
+U016,shankar,shankar.shankar@outlook.com,Bangalore,15,4.3
+U017,sanjay,sanjay.sanjay@outlook.com,Bangalore,13,4.7
+U018,ramesha,ramesha.ramesha@outlook.com,Chennai,17,4.5
+U019,krishnappa,krishnappa.krishnappa@outlook.com,Bangalore,19,4.6
+U020,sachin sharma,sachin.sharma@outlook.com,Kolkata,13,4.2
