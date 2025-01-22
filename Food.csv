@@ -1,0 +1,16 @@
+FoodID,FoodName,Category,Price,PreparationTime,Availability
+F001,Margherita Pizza,Italian,250,15,Yes
+F002,Chicken Burger,Fast Food,180,10,Yes
+F003,Butter Chicken,Indian,300,25,No
+F004,Caesar Salad,Healthy,150,12,Yes
+F005,Sushi Roll,Japanese,350,20,Yes
+F006,Dose,Indian,110,10,Yes
+F007,Gobi,Fast Food,75,19,Yes
+F008,Italian Pizza,Italian,240,25,No
+F009,maggly,Fast Food,60,16,Yes
+F010,Idli,Indian,90,12,Yes
+F011,Biriyani,Indian,350,30,No
+F012,Italian Pasta,Italian,250,30,Yes
+F013,Gyoza,Japanese,360,26,Yes
+F014,Cauliflower rice,Healthy,185,20,No
+F015,veg wheat noodles,Healthy,200,15,Yes
